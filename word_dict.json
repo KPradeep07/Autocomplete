@@ -1,0 +1,51 @@
+{"city_names" : [
+    "New York", "Los Angeles", "Chicago", "Houston", "Phoenix",
+    "London", "Paris", "Berlin", "Rome", "Madrid",
+    "Sydney", "Melbourne", "Toronto", "Vancouver", "Montreal",
+    "Tokyo", "Osaka", "Kyoto", "Seoul", "Beijing",
+    "Rio de Janeiro", "Sao Paulo", "Buenos Aires", "Lima", "Bogota",
+    "Cairo", "Cape Town", "Nairobi", "Lagos", "Casablanca",
+    "Moscow", "St. Petersburg", "Kiev", "Istanbul", "Ankara",
+    "Mumbai", "Delhi", "Bangkok", "Singapore", "Kuala Lumpur",
+    "Dubai", "Abu Dhabi", "Riyadh", "Jeddah", "Doha",
+    "Auckland", "Wellington", "Sydney", "Brisbane", "Perth"],
+
+"river_names" :[
+    "Nile", "Amazon", "Mississippi", "Yangtze", "Danube",
+    "Rhine", "Volga", "Mekong", "Ganges", "Indus",
+    "Thames", "Seine", "Colorado", "Congo", "Murray",
+    "Tigris", "Euphrates", "Yukon", "Rhône", "Loire",
+    "Orinoco", "Niger", "Lena", "Amur", "Columbia",
+    "Mackenzie", "Don", "Tagus", "Guadalquivir", "Vistula",
+    "Misisipi", "Narmada", "Brahmaputra", "Godavari", "Krishna",
+    "Potomac", "Rio Grande", "Colorado", "Parana", "Magdalena",
+    "Zambezi", "Nile", "Murray-Darling", "Rio de la Plata", "Gambia",
+    "Fraser", "Danube", "Cumberland", "Dniester", "Greenland"
+],
+
+"country_names" : [
+    "United States", "Canada", "Mexico", "Brazil", "Argentina",
+    "United Kingdom", "France", "Germany", "Italy", "Spain",
+    "Australia", "Japan", "China", "India", "South Korea",
+    "Egypt", "South Africa", "Nigeria", "Kenya", "Morocco",
+    "Russia", "Ukraine", "Turkey", "Greece", "Saudi Arabia",
+    "Thailand", "Vietnam", "Malaysia", "Indonesia", "Singapore",
+    "United Arab Emirates", "Qatar", "Kuwait", "Iraq", "Iran",
+    "New Zealand", "Argentina", "Chile", "Peru", "Bolivia",
+    "Switzerland", "Austria", "Netherlands", "Belgium", "Sweden",
+    "Norway", "Finland", "Denmark", "Iceland", "Portugal"
+],
+
+"people_names" : [
+    "John Smith", "Mary Johnson", "Robert Brown", "Linda Davis", "Michael Wilson",
+    "Jennifer Lee", "William Moore", "Patricia Taylor", "David Anderson", "Elizabeth White",
+    "James Harris", "Susan Martin", "Charles Clark", "Karen Thompson", "Joseph Lewis",
+    "Jessica Hall", "Richard Turner", "Sarah Adams", "Thomas Moore", "Nancy Baker",
+    "Daniel Green", "Lisa King", "Paul Walker", "Betty Evans", "Matthew Harris",
+    "Linda Davis", "Donald Robinson", "Karen Rodriguez", "George Wright", "Margaret Murphy",
+    "Edward Perez", "Helen Martinez", "Brian Jackson", "Ruth Garcia", "Christopher Thomas",
+    "Sandra Martinez", "Kenneth White", "Maria Hernandez", "Timothy Davis", "Susan Scott",
+    "Steven Martinez", "Donna Taylor", "Joseph Anderson", "Lisa Smith", "Michael Lee",
+    "Dorothy Johnson", "William Hernandez", "Nancy Clark", "Daniel Davis", "Karen Adams"]
+}
+
